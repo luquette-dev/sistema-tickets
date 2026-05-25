@@ -121,7 +121,7 @@ sistema-tickets/
 
 **Gabriel Luquette**  
 Estudante de Sistemas de Informação — FMU  
-[LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/luquette-dev)
+[LinkedIn]([[https://www.linkedin.com/in/gabriel-luquette-de-paula-4885a4272/]]) · [GitHub](https://github.com/luquette-dev)
 
 ---
 
